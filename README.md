@@ -1,7 +1,6 @@
 # Домашнее задание к занятию 5. «Elasticsearch»
 
 ## Задача 1
-sdagdsfgdsfgdsgsdfgsdgfsd
 В этом задании вы потренируетесь в:
 
 - установке Elasticsearch,
